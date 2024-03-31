@@ -22,9 +22,9 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = process.env.OWNER_NAME || "𝑆𝛪𝐷 𝐵𝛨𝛥𝛪";
-global.owner = process.env.OWNER_NUMBER || ['917050906659'];
-global.premium = process.env.PREMIUM_NUMBER || ['917050906659'];
+global.ownername = process.env.OWNER_NAME || "𝑫𝑨𝑴𝑰𝑹𝑼 𝓩𝓔𝓔𝓚𝓔𝓡";
+global.owner = process.env.OWNER_NUMBER || ['94743747913'];
+global.premium = process.env.PREMIUM_NUMBER || ['94743747913'];
 global.packname = process.env.STICKER_PACKNAME || "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
 global.author = process.env.STICKER_AUTHOR || "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
 global.sessionName = 'session';
@@ -35,7 +35,7 @@ global.mess = {
     bangc: '`This Group is *Banned* from using Commands!`',
     success: '`✓ Success`',
     admin: '`This feature is only for group admins`',
-    botAdmin: '`I am not an admin!`',
+    botAdmin: '`Give me admin fucker!`',
     owner: '`You are not my owner`',
     group: '`You can use this command only in groups ❌`',
     private: '`Feature is used only for private chats!`',
@@ -43,15 +43,15 @@ global.mess = {
     wait: '*Processing Your request*',
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 };
-global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
-global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
+global.link = 'https://whatsapp.com/channel/0029VaJgHDB1t90b7wH2Lz3m'
+global.linkGroup = 'https://chat.whatsapp.com/KUaPdfu5YtB1E5ZOrXEcSg'
 global.autoswview = process.env.AUTO_STATUS_SEEN || "true";
-global.autoread = process.env.AUTO_READ || "true";
+global.autoread = process.env.AUTO_READ || "false";
 global.autoTyping = process.env.AUTO_TYPING || "true";
 global.typemenu = process.env.MENU_TYPE || "v2";
 global.onlygroup = process.env.ONLY_GROUP || "false";
 global.onlypc = process.env.ONLY_PC || "false";
-global.welcome = process.env.WELCOME_MSG || "true";
+global.welcome = process.env.WELCOME_MSG || "false";
 global.autoabout = process.env.AUTO_BIO || "false";
 global.limitawal = {
     premium: 'Infinity',
